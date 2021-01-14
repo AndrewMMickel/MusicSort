@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: "Rowdies";
+  }
+  
+  @font-face {
+      font-family: "Rowdies";
+      src: url('Rowdies-Regular.ttf');
+  }
