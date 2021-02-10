@@ -43,6 +43,6 @@ namespace Organizer
     }
     public static class DBConfiguration
     {
-        public static string ConnectionString = "server=localhost;user id=root;password=freerealms24;port=3306;database=music_organizer;";
+        public static string ConnectionString = "server=localhost;user id=root;password=epicodus;port=3306;database=music_organizer;";
     }
 }
